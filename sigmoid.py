@@ -1,5 +1,15 @@
 '''
-this script defines a sigmoid function, and uses a dictionary to make a distribution of outputs
+THE SIGMOID FUNCTION:
+the sigmoid function has a center point at zero. As x gets bigger it converges on one, 
+and as x gets smaller (more negative) the function converges on zero. This function maps 
+phenomina that start slow, raplidly increase, then top out over time. example where sigmoid 
+functions are used is, atrficial neralnetworks, audio signal processing, and crop yeild modeling.
+
+-------------------------------
+   
+    This script, defines sigmoid in a function and makes a distribution of it in a dictionary
+
+
 '''
 import math 
 def sigmoid(x):
