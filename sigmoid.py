@@ -31,7 +31,7 @@ for k, v in sigmoid_dict(10).items():
     #print(f'{k}:  {"*" * int(10 * v)}')
 
 
-
+#########  just for fun #####################################################
 import matplotlib.pyplot as plt
 
 def plot_from_dict( dict):
