@@ -1,5 +1,5 @@
 '''
-sigmoid function
+this script defines a sigmoid function, and uses a dictionary to make a distribution of outputs
 '''
 import math 
 def sigmoid(x):
